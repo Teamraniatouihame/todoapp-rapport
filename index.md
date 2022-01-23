@@ -130,10 +130,6 @@ remTache<span style="color:#800080; ">::</span><span style="color:#808030; ">~</
 ![image](https://user-images.githubusercontent.com/86810485/150679916-6a4a2950-dc6a-44b4-913a-3f17ad350f25.png)
 
 
-## Item Based Model
-
-As a first attempt, You could use Item Based containers for the three widgets.
-
 ## MVC Model
 
 Once you finished the first version, Try to move on to more complicated model using either
@@ -546,7 +542,9 @@ Tache<span style="color:#800080; ">::</span><span style="color:#808030; ">~</spa
 
 ![image](https://user-images.githubusercontent.com/86810485/150682365-3b959ff1-2fd6-4ddf-b159-6ffe88e11cd7.png)
 
+## fichier test 
 
+![image](https://user-images.githubusercontent.com/86810485/150682732-6e9f0220-b7f6-4086-97ff-a31fb88f44d1.png)
 
 
        
